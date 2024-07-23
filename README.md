@@ -1,2 +1,3 @@
-# ImagiTales_be
-Backend code for ImagiTales
+# imagitales_be
+
+Backend serving imagitales
